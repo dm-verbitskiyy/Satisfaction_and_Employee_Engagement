@@ -18,6 +18,6 @@
 
 
 ### Ссылка на Дашборд:
-###https://public.tableau.com/views/EmployeeSatisfactionandEngagement/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+### https://public.tableau.com/views/EmployeeSatisfactionandEngagement/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ![Dashboard 1](https://github.com/dm-verbitskiyy/Satisfaction_and_Employee_Engagement/assets/153438834/76c86b5f-6653-40c5-9dd1-4589ff0e46dc)
